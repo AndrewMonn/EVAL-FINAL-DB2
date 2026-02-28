@@ -23,7 +23,6 @@ Tech-Inventory-Pro/
 
 ```bash
 git clone https://github.com/AndrewMonn/eval-final-db2
-cd Tech-Inventory-Pro
 ```
 
 ## 2) Instalar dependencias
@@ -41,7 +40,7 @@ npm install --prefix client
 1. Copia el archivo de ejemplo:
 
 ```bash
-cp server/.env.example server/.env
+server/.env
 ```
 
 2. Edita `server/.env` y configura los valores:
